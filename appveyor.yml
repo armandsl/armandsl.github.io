@@ -1,0 +1,18 @@
+version: 1.0.{build}
+image: Visual Studio 2019
+configuration: Debug, Release
+platform: Any CPU
+nuget:
+  account_feed: true
+  project_feed: true
+build:
+  verbosity: minimal
+deploy:
+- provider: NuGet
+  server: https://nuget.pkg.github.com/armandsl/index.json
+  api_key:
+    secure: 1pjISga5kudZK1sEwSD9r1tpYK4gaB3nDlMG2lbXUmhdnmF1XOwAIzcw4/S7q5eP
+  username:
+    secure: hZdENxqZ7Oew4+q4IXzy0w==
+  symbol_server: https://ci.appveyor.com/nuget/armandsl-vvsjx7j2d4b3/api/v2/package
+  artifact: /.*\.symbols\.nupkg/
