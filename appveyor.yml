@@ -5,8 +5,6 @@ platform: Any CPU
 nuget:
   account_feed: true
   project_feed: true
-build:
-  verbosity: minimal
 deploy:
 - provider: NuGet
   server: https://nuget.pkg.github.com/armandsl/index.json
