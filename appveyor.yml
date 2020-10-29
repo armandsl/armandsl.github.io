@@ -9,8 +9,7 @@ environment:
 nuget:
   account_feed: true
   project_feed: true
-build:
-  verbosity: minimal
+build: off
 deploy:
 - provider: NuGet
   server: https://nuget.pkg.github.com/armandsl/index.json
