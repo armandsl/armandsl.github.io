@@ -1,0 +1,13 @@
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\bin\Release\netcoreapp3.1\armandsl.github.io.exe
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\bin\Release\netcoreapp3.1\armandsl.github.io.deps.json
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\bin\Release\netcoreapp3.1\armandsl.github.io.runtimeconfig.json
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\bin\Release\netcoreapp3.1\armandsl.github.io.runtimeconfig.dev.json
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\bin\Release\netcoreapp3.1\armandsl.github.io.dll
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\bin\Release\netcoreapp3.1\armandsl.github.io.pdb
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\obj\Release\netcoreapp3.1\armandsl.github.io.csprojAssemblyReference.cache
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\obj\Release\netcoreapp3.1\armandsl.github.io.AssemblyInfoInputs.cache
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\obj\Release\netcoreapp3.1\armandsl.github.io.AssemblyInfo.cs
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\obj\Release\netcoreapp3.1\armandsl.github.io.csproj.CoreCompileInputs.cache
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\obj\Release\netcoreapp3.1\armandsl.github.io.dll
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\obj\Release\netcoreapp3.1\armandsl.github.io.pdb
+C:\Users\arman\Documents\GitHub\armandsl.github.io\armandsl.github.io\obj\Release\netcoreapp3.1\armandsl.github.io.genruntimeconfig.cache
