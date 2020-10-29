@@ -2,10 +2,15 @@ version: 1.0.{build}
 image: Visual Studio 2019
 configuration: Debug, Release
 platform: Any CPU
+environment:
+  APPVEYOR: True
+  CI: True
+  APPVEYOR_URL: https://ci.appveyor.com
 nuget:
   account_feed: true
   project_feed: true
-build: off
+build:
+  verbosity: minimal
 deploy:
 - provider: NuGet
   server: https://nuget.pkg.github.com/armandsl/index.json
