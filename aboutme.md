@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Know about me
-permalink: about-me.html
+permalink: about.html
 ---
 
 My name is Zw. I have the following qualities:
