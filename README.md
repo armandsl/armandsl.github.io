@@ -1,4 +1,4 @@
-![M. A. Zuha](https://avatars.githubusercontent.com/u/38503380?s=100&v=4)
+![M A Zuha](https://avatars.githubusercontent.com/u/38503380?s=100&v=4)
 
 Hi, [M A Zuha](https://armandsl.github.io) here.
 ================================
@@ -24,4 +24,3 @@ Hi, [M A Zuha](https://armandsl.github.io) here.
 \[Mastodon\]: [Zw](https://mastodon.social/@zuhaworld)
 \[GitHub\]: [M A Zuha](https://github.com/armandsl)
 \[YouTube Channel\]: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
-
