@@ -5,7 +5,7 @@ permalink: ./
 ---
 ![Favicon](assets/img/favicon.ico)
 
-[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [Aboutme](./aboutme.html)
+[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
 
 Hi, [M A Zuha](https://armandsl.github.io) here.
 ================================
