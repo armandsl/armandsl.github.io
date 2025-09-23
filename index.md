@@ -1,6 +1,13 @@
 ---
-layout: default
+layout: home
+title: Home
+permalink: ./
 ---
+![Favicon](assets/img/favicon.ico)
+
+[Home](./) | [About](./about.html) | [Contact](./contact)
+
+![Home](/assets/img/home.png)
 
 ![M A Zuha](https://avatars.githubusercontent.com/u/38503380?s=100&v=4)
 
@@ -28,3 +35,11 @@ Tumblr: [ZuhaWorld](http://zuhaworld.tumblr.com)
 Mastodon: [Zw](https://mastodon.social/@zuhaworld)
 GitHub: [M A Zuha](https://github.com/armandsl)
 YouTube Channel: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
+
+## Contact
+For any questions, feel free to [reach out to the team](mailto:info@zuha.site).
+
+## Download
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
+github:
+  zip_url: https://armndsl.github.io/download.zip
