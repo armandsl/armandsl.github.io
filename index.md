@@ -5,7 +5,7 @@ permalink: ./
 ---
 ![Favicon](assets/img/favicon.ico)
 
-[Home](./) | [About](./about.html) | [Contact](./contact)
+[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [Aboutme](./aboutme.html)
 
 ![Home](/assets/img/home.png)
 
@@ -36,10 +36,68 @@ Mastodon: [Zw](https://mastodon.social/@zuhaworld)
 GitHub: [M A Zuha](https://github.com/armandsl)
 YouTube Channel: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
 
+## Table of Contents
+- [Introduction](#introduction)
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Download](#download)
+
+## Introduction
+Welcome to my GitHub profile!
+I’m a writer and photographer from Dhaka, Bangladesh. Professionally I’m a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh.
+
+## About
+- **[About]**: (https://armandsl.github.io/about/)
+- **[Aboutme]**: (https://armandsl.github.io/aboutme.html/)
+
+## Installation
+To get started with the armanhrm.github.io, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/armandsl/armanhrm.github.io.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd armandsl.github.io
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Run the project**:
+   ```bash
+   npm start
+   ```
+
+## Usage
+Provide detailed information on how to use the project. Include code snippets, examples, and screenshots if necessary.
+
+## Contributing
+We welcome contributions from the community! To contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b my-feature-branch`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin my-feature-branch`.
+5. Submit a pull request.
+
+Please ensure your code follows our [coding standards](link-to-coding-standards) and [contribution guidelines](link-to-contribution-guidelines).
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact
-For any questions, feel free to [reach out to the team](mailto:info@zuha.site).
+For any questions, feel free to [reach out to the team](mailto:info@zuha.site) or [me](https://armandsl.github.io/contact/).
 
 ## Download
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
 github:
-  zip_url: https://armndsl.github.io/download.zip
+  [Download](https://armndsl.github.io/download.zip)
