@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Know about me
+title: About Me
+subtitle: Know About Me
 permalink: aboutme.html
 ---
 
-My name is Zw. I have the following qualities:
+My name is M A Zuha. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
