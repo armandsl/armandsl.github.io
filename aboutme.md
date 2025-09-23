@@ -6,6 +6,8 @@ permalink: aboutme.html
 ---
 [Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
 
+![Home](/assets/img/home.png)
+
 This is M A Zuha, CEO of [ZuhaWorld Social Impact](https://zuhaworld.com). At ZuhaWorld, we believe in the power of collective action to create meaningful and lasting social change. Through technology, community building, and strategic partnerships, we empower people to turn their ideas into action, creating a ripple effect of kindness and progress across the globe. Our Core Values:
 
 - **Inclusivity**: We are committed to creating a platform that is accessible and welcoming to people from all backgrounds and beliefs.
