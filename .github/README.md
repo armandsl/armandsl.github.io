@@ -83,7 +83,7 @@ Gravatar Profile: [M A Zuha](https://gravatar.com/zuhaworld)
 WordPress: [ZuhaWorld Social Impact](https://zuhaworld.com)
 Flickr: [M A Zuha](https://www.flickr.com/people/zuhaworld)
 Tumblr: [ZuhaWorld](http://zuhaworld.tumblr.com)
-Mastodon: [Zw](https://mastodon.social/@zuhaworld)
+Mastodon: [M A Zuha](https://mastodon.social/@zwarman)
 GitHub: [M A Zuha](https://github.com/armandsl)
 YouTube Channel: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
 
