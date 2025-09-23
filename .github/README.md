@@ -93,5 +93,5 @@ For any questions, feel free to [reach out to the team](mailto:info@zuha.site) o
 ## Download
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
 github:
-  [Download](https://armndsl.github.io/download.zip)
+  [Download](https://github.com/armndsl/armandsl.github.io/zipball/main)
 
