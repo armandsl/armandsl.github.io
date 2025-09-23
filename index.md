@@ -7,10 +7,6 @@ permalink: ./
 
 [Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [Aboutme](./aboutme.html)
 
-![Home](assets/img/home.png)
-
-![M A Zuha](https://avatars.githubusercontent.com/u/38503380?s=100&v=4)
-
 Hi, [M A Zuha](https://armandsl.github.io) here.
 ================================
 
@@ -27,15 +23,6 @@ Hi, [M A Zuha](https://armandsl.github.io) here.
 - Interests: photography, traveling, reading, writing, learning, programming, coding
 - About Me: Hi, this is (এম এ জোহা) M A Zuha, I’m a writer and photographer from Dhaka, Bangladesh. Professionally I'm a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh. My favorite quote is: “One can't help everyone, but everyone can help someone.”
 
-## Online Presence
-Gravatar Profile: [M A Zuha](https://gravatar.com/zuhaworld)
-WordPress: [ZuhaWorld Social Impact](https://zuhaworld.com)
-Flickr: [M A Zuha](https://www.flickr.com/people/zuhaworld)
-Tumblr: [ZuhaWorld](http://zuhaworld.tumblr.com)
-Mastodon: [Zw](https://mastodon.social/@zuhaworld)
-GitHub: [M A Zuha](https://github.com/armandsl)
-YouTube Channel: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [About](#about)
@@ -43,6 +30,7 @@ YouTube Channel: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Online Presence](#online-presence)
 - [Contact](#contact)
 - [Download](#download)
 
@@ -51,8 +39,8 @@ Welcome to my GitHub profile!
 I’m a writer and photographer from Dhaka, Bangladesh. Professionally I’m a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh.
 
 ## About
-- **[About]**: (https://armandsl.github.io/about/)
-- **[Aboutme]**: (https://armandsl.github.io/aboutme.html/)
+- **About**: A Little Introduction About My Profile.
+- **About Me**: Know About Me
 
 ## Installation
 To get started with the armanhrm.github.io, follow these steps:
@@ -93,6 +81,15 @@ Please ensure your code follows our [coding standards](link-to-coding-standards)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Online Presence
+Gravatar Profile: [M A Zuha](https://gravatar.com/zuhaworld)
+WordPress: [ZuhaWorld Social Impact](https://zuhaworld.com)
+Flickr: [M A Zuha](https://www.flickr.com/people/zuhaworld)
+Tumblr: [ZuhaWorld](http://zuhaworld.tumblr.com)
+Mastodon: [Zw](https://mastodon.social/@zuhaworld)
+GitHub: [M A Zuha](https://github.com/armandsl)
+YouTube Channel: [ZuhaWorld Social Impact](https://www.youtube.com/@zuhaworld)
 
 ## Contact
 For any questions, feel free to [reach out to the team](mailto:info@zuha.site) or [me](https://armandsl.github.io/contact/).
