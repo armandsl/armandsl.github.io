@@ -7,7 +7,7 @@ permalink: ./
 
 [Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [Aboutme](./aboutme.html)
 
-![Home](/assets/img/homepage.png)
+![Home](assets/img/home.png)
 
 ![M A Zuha](https://avatars.githubusercontent.com/u/38503380?s=100&v=4)
 
