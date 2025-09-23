@@ -3,9 +3,10 @@ layout: home
 title: Home
 permalink: ./
 ---
-![Favicon](assets/img/favicon.ico)
 
 [Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
+
+![Home](/assets/img/home.png)
 
 Hi, [M A Zuha](https://armandsl.github.io) here.
 ================================
