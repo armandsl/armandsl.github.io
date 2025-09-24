@@ -30,4 +30,4 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 [hampden]: https://github.com/jekyll/jekyll
 
-<p><a href="https://armandsl.github.io/">Home</a> | <a href="https://armandsl.github.io/about">About</a> | <a href="https://armandsl.github.io/contact">Contact</a> | <a href="https://armandsl.github.io/blog">Blog</a> | <a href="https://armandsl.github.io/aboutme.html">About Me</a> | <a href="https://armandsl.github.io/category">Category</a </p>
+<p><a href="https://armandsl.github.io/">Home</a> | <a href="https://armandsl.github.io/about">About</a> | <a href="https://armandsl.github.io/contact">Contact</a> | <a href="https://armandsl.github.io/blog">Blog</a> | <a href="https://armandsl.github.io/aboutme.html">About Me</a> | <a href="https://armandsl.github.io/category">Category</a> </p>
