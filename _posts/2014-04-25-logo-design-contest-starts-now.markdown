@@ -10,7 +10,6 @@ categories:
 img: post03.jpg
 thumb: thumb03.jpg
 ---
-<p><a href="https://armandsl.github.io/">Home</a> | <a href="https://armandsl.github.io/about">About</a> | <a href="https://armandsl.github.io/contact">Contact</a> | <a href="https://armandsl.github.io/blog">Blog</a> | <a href="https://armandsl.github.io/aboutme.html">About Me</a> | <a href="https://armandsl.github.io/category">Category</a </p>
 
 <b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
@@ -30,3 +29,5 @@ It is a long established fact that a reader will be distracted by the readable c
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
 [hampden]: https://github.com/jekyll/jekyll
+
+<p><a href="https://armandsl.github.io/">Home</a> | <a href="https://armandsl.github.io/about">About</a> | <a href="https://armandsl.github.io/contact">Contact</a> | <a href="https://armandsl.github.io/blog">Blog</a> | <a href="https://armandsl.github.io/aboutme.html">About Me</a> | <a href="https://armandsl.github.io/category">Category</a> </p>
