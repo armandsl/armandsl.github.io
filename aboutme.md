@@ -4,9 +4,9 @@ title: About Me
 subtitle: Know About Me
 permalink: aboutme.html
 ---
-[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
+[Home](/) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
 
-![Home](/assets/img/home.png)
+![Social Image](/assets/img/social-image.png)
 
 This is M A Zuha, CEO of [ZuhaWorld Social Impact](https://zuhaworld.com). At ZuhaWorld, we believe in the power of collective action to create meaningful and lasting social change. Through technology, community building, and strategic partnerships, we empower people to turn their ideas into action, creating a ripple effect of kindness and progress across the globe. Our Core Values:
 
