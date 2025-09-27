@@ -1,12 +1,8 @@
 ---
 layout: default
-title: Home
-permalink: ./
 ---
 
 [Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
-
-![Home](/assets/img/home.png)
 
 Hi, [M A Zuha](https://armandsl.github.io) here.
 ================================
