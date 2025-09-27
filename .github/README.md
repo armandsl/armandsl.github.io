@@ -1,7 +1,7 @@
 # armandsl.github.io
 
 *M A Zuha is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://armandsl.github.io).*
-![Site Preview of M A Zuha](site-preview.png)
+![Thumbnail of M A Zuha](thumbnail.png)
 
 Hi, [M A Zuha](https://armandsl.github.io) here.
 ================================
