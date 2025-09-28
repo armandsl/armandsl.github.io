@@ -95,3 +95,5 @@ For any questions, feel free to [reach out to the team](mailto:info@zuha.site) o
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
 github:
   [Download](https://github.com/armandsl/armandsl.github.io/zipball/main)
+
+This site is open source. [Improve this page](https://github.com/armandsl/armandsl.github.io/edit/main/index.md)
