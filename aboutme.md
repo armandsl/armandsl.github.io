@@ -6,7 +6,7 @@ permalink: aboutme.html
 ---
 [Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
 
-![Logo](/assets/img/logo.png)
+![M A Zuha Avatar](/assets/img/mazuha-avatar.png)
 
 ## Know About Me
 
