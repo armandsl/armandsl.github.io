@@ -4,7 +4,7 @@ title: About Me
 subtitle: Know About Me
 permalink: aboutme.html
 ---
-[Home](/) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
+[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
 
 ![Social Image](/assets/img/social-image.png)
 
