@@ -4,6 +4,8 @@ layout: default
 
 [Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
 
+![M A Zuha Avatar](/assets/img/mazuha-avatar.png)
+
 Hi, [M A Zuha](https://armandsl.github.io) here.
 ================================
 
