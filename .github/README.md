@@ -1,4 +1,5 @@
 # M A Zuha
+GitHub Profile Site!
 
 *M A Zuha is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://armandsl.github.io).*
 ![Thumbnail of M A Zuha](thumbnail.png)
@@ -17,7 +18,7 @@ Hi, [M A Zuha](https://armandsl.github.io) here.
 - Job Title: CEO
 - Pronouns: he/him/his
 - Interests: photography, traveling, reading, writing, learning, programming, coding
-- About Me: Hi, this is (এম এ জোহা) M A Zuha, I’m a writer and photographer from Dhaka, Bangladesh. Professionally I'm a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh. My favorite quote is: “One can't help everyone, but everyone can help someone.”
+- About Me: Hi, this is (এম এ জোহা) M A Zuha, I’m a writer and photographer from Dhaka, Bangladesh. Professionally I'm a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh. My favorite quote is: “One can't help everyone, but everyone can help someone.” 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -31,8 +32,8 @@ Hi, [M A Zuha](https://armandsl.github.io) here.
 - [Download](#download)
 
 ## Introduction
-Welcome to my GitHub profile!
-I’m a writer and photographer from Dhaka, Bangladesh. Professionally I’m a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh.
+Welcome to M A Zuha GitHub Profile Site!
+This site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
 
 ## About
 - **About**: A Little Introduction About My Profile.
