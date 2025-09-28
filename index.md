@@ -34,8 +34,8 @@ Hi, [M A Zuha](https://armandsl.github.io) here.
 - [Download](#download)
 
 ## Introduction
-Welcome to my GitHub profile!
-I’m a writer and photographer from Dhaka, Bangladesh. Professionally I’m a developer. I have a passion for traveling and documenting my experiences. I am passionate about capturing the diverse landscapes and rich cultural heritage of Bangladesh.
+Welcome to M A Zuha GitHub Profile Site!
+This site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
 
 ## About
 - **About**: A Little Introduction About My Profile.
