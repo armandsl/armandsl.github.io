@@ -62,4 +62,4 @@ Click below to submit your idea and start building the future you envision!
 
 [Submit Your Idea to the Lab →](https://zuhaworld.com/contact-form/)
 
-[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
+[Home](https://armandsl.github.io/) | [About](https://armandsl.github.io/about) | [Contact](https://armandsl.github.io/contact) | [Blog](https://armandsl.github.io/blog) | [About Me](https://armandsl.github.io/aboutme.html) | [Category](https://armandsl.github.io/category)
