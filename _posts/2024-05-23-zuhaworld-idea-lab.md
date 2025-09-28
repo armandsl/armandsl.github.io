@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "ZuhaWorld Idea Lab"
 date: 2024-05-23 16:54:46
 author: Admin
@@ -62,4 +62,6 @@ Click below to submit your idea and start building the future you envision!
 
 [Submit Your Idea to the Lab →](https://zuhaworld.com/contact-form/)
 
-[Home](https://armandsl.github.io/) | [About](https://armandsl.github.io/about) | [Contact](https://armandsl.github.io/contact) | [Blog](https://armandsl.github.io/blog) | [About Me](https://armandsl.github.io/aboutme.html) | [Category](https://armandsl.github.io/category)
+[hampden]: https://github.com/jekyll/jekyll
+
+<p><a href="https://armandsl.github.io/">Home</a> | <a href="https://armandsl.github.io/about">About</a> | <a href="https://armandsl.github.io/contact">Contact</a> | <a href="https://armandsl.github.io/blog">Blog</a> | <a href="https://armandsl.github.io/aboutme.html">About Me</a> | <a href="https://armandsl.github.io/category">Category</a> </p>
