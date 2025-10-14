@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category)
+[Home](./) | [About](./about) | [Contact](./contact) | [Blog](./blog) | [About Me](./aboutme.html) | [Category](./category) | [Photography Portfolio](https://armandsl.github.io/photography-portfolio)
 
 ![M A Zuha Avatar](/assets/img/mazuha-avatar.png)
 
