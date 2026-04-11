@@ -19,3 +19,5 @@ deploy:
     secure: hZdENxqZ7Oew4+q4IXzy0w==
   symbol_server: https://ci.appveyor.com/nuget/armandsl-vvsjx7j2d4b3/api/v2/package
   artifact: /.*\.symbols\.nupkg/
+  on:
+    branch: main
